@@ -1,2 +1,3 @@
-# HelloJava
-Basic Java file for Jenkins 101 series in Medium
+# Jenkins 101
+
+Examples for Jenkins 101 series in Medium
